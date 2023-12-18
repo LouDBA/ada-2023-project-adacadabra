@@ -1,6 +1,6 @@
 remote_theme: daviddarnes/alembic@main
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
 title: ADAcadabra
 description: Lou De Bel-Air, Jiacheng Yang, Mats Hansen Frydenberg
 show_downloads: False

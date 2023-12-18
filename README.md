@@ -7,3 +7,5 @@ How are YouTube channels interconnected, and what does this connectivity indicat
 ## Is there a difference in popularity between collaborating and non-collaborating channels? Is there a correlation between video frequency and views/subscriptions that could potentially bias the study?
 
 ## What is happening before and after collaborations? Is the number of viewers increasing? Can collaborations prolong the life of a channel?
+
+## Ethical considerations

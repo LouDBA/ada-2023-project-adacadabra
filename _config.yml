@@ -1,6 +1,18 @@
-remote_theme: pages-themes/cayman@v0.2.0
+# _config.yml
+
+title: Your Site Title
+description: Your site description
+url: "https://loudba.github.io/ada-2023-project-adacadabra/"  # Update with your GitHub Pages URL
+
+theme: jekyll-theme-cayman
+
+# Optional settings
+author:
+  name: Lou
+
 plugins:
-- jekyll-remote-theme
-title: ADAcadabra
-description: Lou De Bel-Air, Jiacheng Yang, Mats Hansen Frydenberg
-show_downloads: False
+  - jekyll-feed
+
+# GitHub Pages settings
+repository: LouDBA/ada-2023-project-adacadabra.github.io
+

@@ -4,6 +4,7 @@ plugins:
 title: ADAcadabra
 description: Lou De Bel-Air, Jiacheng Yang, Mats Hansen Frydenberg
 show_downloads: False
+home_img: /assets/images/youtube.png
 navigation:
   - title: Home
     url: /

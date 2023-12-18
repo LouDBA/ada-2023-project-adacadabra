@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
+theme: alembic-jekyll-theme
+plugins:
+  - jekyll-remote-theme
 title: ADAcadabra
 description: Lou De Bel-Air, Jiacheng Yang, Mats Hansen Frydenberg
 show_downloads: False

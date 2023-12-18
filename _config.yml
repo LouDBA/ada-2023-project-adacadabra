@@ -16,3 +16,7 @@ plugins:
 # GitHub Pages settings
 repository: LouDBA/ada-2023-project-adacadabra.github.io
 
+include: ["README.md"]
+
+home_img: /assets/images/new-homepage-image.jpg
+
